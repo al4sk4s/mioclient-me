@@ -1,0 +1,13 @@
+{
+  "kill_sound_cs": {
+    "category": "player",
+    "subtitle": "kill_sound_cs",
+    "sounds": [{ "name": "mio:kill_sound_cs.ogg", "stream": false }]
+  },
+
+  "kill_sound_nl": {
+    "category": "player",
+    "subtitle": "kill_sound_nl",
+    "sounds": [{ "name": "mio:kill_sound_nl.ogg", "stream": false }]
+  }
+}

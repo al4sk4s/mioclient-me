@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "mioclient.me",
+    "name": "mio",
+    "description": "Default prefix is ; . Do ;help for commands :^)",
+
+    "version": "new",
+    "mcversion": "1.12.2",
+    "logoFile": "IconMio.png",
+    "url": "https://mioclient.me",
+    "updateUrl": "",
+    "authorList": [
+      "Author: asphyxia#8173"
+    ],
+    "screenshots": [],
+    "dependencies": []
+  }
+]
